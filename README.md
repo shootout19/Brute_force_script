@@ -18,7 +18,7 @@ This script shows how a brute force method works using Python's built-in itertoo
    cd brute-force-script
 3. Run the scripts
    ```bash
-   python brute_force.py
+   python bruteforcescript.py
 3. Follows These Step :
    ```bash
    Enter Password : abcd
