@@ -14,7 +14,7 @@ This script shows how a brute force method works using Python's built-in itertoo
 ## **Usage**
 1. Clone this repository:
    ```bash
-   https://github.com/shootout19/Brute_force_script.git
+   git clone https://github.com/shootout19/Brute_force_script.git
    cd brute-force-script
 3. Run the scripts
    ```bash
